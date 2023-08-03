@@ -1,0 +1,5 @@
+position: 2
+label: "はじめに"
+collapsible: true
+collapsed: false
+className: icon_hat
