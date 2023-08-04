@@ -8,4 +8,4 @@ npm start
 ```
 
 # KuronekoServerDocs
-KuronekoSrverのドキュメント用リポジトリ(Powered by Docusaurus)
+KuronekoServerのドキュメント用リポジトリ(Powered by Docusaurus)
